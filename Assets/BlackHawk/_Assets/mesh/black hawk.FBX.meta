@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: edccc58ee3cae804da415f5a1c07c646
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: body_collider
+    100006: door L
+    100008: door R
+    100010: glass F
+    100012: glass L1
+    100014: glass L2
+    100016: glass L3
+    100018: glass R1
+    100020: glass R2
+    100022: glass R3
+    100024: interior
+    100026: rotor big
+    100028: rotor small
+    100030: rudder
+    100032: seat 1
+    100034: seat 2
+    100036: seat 3
+    100038: wheel back
+    100040: wheel left
+    100042: wheel right
+    400000: //RootNode
+    400002: body
+    400004: body_collider
+    400006: door L
+    400008: door R
+    400010: glass F
+    400012: glass L1
+    400014: glass L2
+    400016: glass L3
+    400018: glass R1
+    400020: glass R2
+    400022: glass R3
+    400024: interior
+    400026: rotor big
+    400028: rotor small
+    400030: rudder
+    400032: seat 1
+    400034: seat 2
+    400036: seat 3
+    400038: wheel back
+    400040: wheel left
+    400042: wheel right
+    2100000: 01 - Default
+    2300000: body
+    2300002: body_collider
+    2300004: door L
+    2300006: door R
+    2300008: glass F
+    2300010: glass L1
+    2300012: glass L2
+    2300014: glass L3
+    2300016: glass R1
+    2300018: glass R2
+    2300020: glass R3
+    2300022: interior
+    2300024: rotor big
+    2300026: rotor small
+    2300028: rudder
+    2300030: seat 1
+    2300032: seat 2
+    2300034: seat 3
+    2300036: wheel back
+    2300038: wheel left
+    2300040: wheel right
+    3300000: body
+    3300002: body_collider
+    3300004: door L
+    3300006: door R
+    3300008: glass F
+    3300010: glass L1
+    3300012: glass L2
+    3300014: glass L3
+    3300016: glass R1
+    3300018: glass R2
+    3300020: glass R3
+    3300022: interior
+    3300024: rotor big
+    3300026: rotor small
+    3300028: rudder
+    3300030: seat 1
+    3300032: seat 2
+    3300034: seat 3
+    3300036: wheel back
+    3300038: wheel left
+    3300040: wheel right
+    4300000: body
+    4300002: wheel right
+    4300004: wheel left
+    4300006: wheel back
+    4300008: seat 3
+    4300010: seat 2
+    4300012: seat 1
+    4300014: rudder
+    4300016: rotor small
+    4300018: rotor big
+    4300020: interior
+    4300022: glass R3
+    4300024: glass R2
+    4300026: glass R1
+    4300028: glass L3
+    4300030: glass L2
+    4300032: glass L1
+    4300034: glass F
+    4300036: door R
+    4300038: door L
+    4300040: body_collider
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
